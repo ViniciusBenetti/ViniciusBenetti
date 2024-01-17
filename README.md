@@ -7,12 +7,6 @@
 ## 🎯 **GitHub - Linguagens Principais**
     
 <a href="https://github.com/ViniciusBenetti">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBenetti&layout=compact&langs_count=5&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBenetti&layout=pie&langs_count=5&theme=merko" />
 </a>
-<!---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusBenetti)](https://github.com/ViniciusBenetti)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ViniciusBenetti)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-
---->
