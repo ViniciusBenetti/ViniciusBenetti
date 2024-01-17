@@ -8,8 +8,7 @@
 
 
 <a href="https://github.com/ViniciusBenetti">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBenetti&layout=normal&langs_count=5&theme=merko&custom_title=%e2%80%8b         
-       vini" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBenetti&layout=normal&langs_count=5&theme=merko&custom_title=%e2%80%8b        vini" />
 </a>
 
 
