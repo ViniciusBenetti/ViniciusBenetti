@@ -6,7 +6,8 @@
 
 <!---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusBenetti)](https://github.com/ViniciusBenetti)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBenetti&layout=compact)](https://github.com/ViniciusBenetti)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ViniciusBenetti)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 --->
