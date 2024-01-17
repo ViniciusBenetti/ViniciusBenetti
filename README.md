@@ -8,7 +8,7 @@
 
 
 <a href="https://github.com/ViniciusBenetti">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBenetti&layout=normal&langs_count=5&theme=merko&custom_title=%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AFvini" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBenetti&layout=normal&langs_count=5&theme=merko&custom_title=%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AF%E2%80%AFu gay" />
 </a>
 
 
