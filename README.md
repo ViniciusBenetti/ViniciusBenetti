@@ -8,7 +8,7 @@
 
 
 <a href="https://github.com/ViniciusBenetti">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBenetti&layout=normal&langs_count=5&theme=merko&custom_title=vinix_dev />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBenetti&layout=normal&langs_count=5&theme=merko&custom_title="vinix_dev" />
 </a>
 
 
