@@ -1,14 +1,14 @@
-- 👋 Oi, sou @ViniciusBenetti
-- 👀 estou interessado em programação
-- 🌱 estou aprendendo C++
-- 💞️ estou procurando colaborar com projetos de programação
-- 📫 como me encontrar: empresavinix@gmail.com
+Hello, My Name is Vinicius, my passion is coding. I intend to work with embbed Systems programmer and Front end Web Development.
+Everyday i turn on my computer and learn something. I have an enterprise and you can check on the domain in the profile.
+You can always contact me on gmail: empresavinix@gmail.com
 
-## Linguagens Principais
+
+
+## Main Languages
 
 
 <a href="https://github.com/ViniciusBenetti">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBenetti&layout=normal&langs_count=5&theme=merko&custom_title="            vinix_dev"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBenetti&layout=normal&langs_count=5&theme=merko&custom_title="vinix_dev"/>
 </a>
 
 
