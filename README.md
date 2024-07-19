@@ -1,9 +1,19 @@
-Hello, My Name is Vinicius, my passion is coding. I intend to work with embbed Systems programmer and Web Development.
-I have my own business and you can check it out on the domain in my profile page.
+Hi,My name is Vinicius and I'm 22 years old.
 
-You can always touch me on gmail: empresavinix@gmail.com
+My passion is making ioT software and developing Websites.
+
+So i know C,Cpp, Rust and Full Stack.
+
+At the moment, i study at Estácio de Sá in Brazil 
+and i have 1 year of experience.
+
+Also im business Owner Called Vinix Dev.
+
+Touch me with:
+empresavinix@gmail.com
 
 
+Thanks
 
 ## Main Languages
 
