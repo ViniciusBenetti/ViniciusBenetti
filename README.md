@@ -2,7 +2,7 @@ Hi,My name is Vinicius and I'm 22 years old.
 
 My passion is making ioT software and developing Websites.
 
-So i know C,Cpp, Rust and Full Stack.
+My skill is ioT and Full stack development
 
 At the moment, i study at Estácio de Sá in Brazil 
 and i have 1 year of experience.
