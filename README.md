@@ -1,6 +1,6 @@
 Hi,My name is Vinicius and I'm 22 years old.
 
-My passion is making ioT software and developing Websites.
+My passion is making Websites.
 
 At the moment, i study at Estácio de Sá in Brazil 
 and i have 1 year of experience.
