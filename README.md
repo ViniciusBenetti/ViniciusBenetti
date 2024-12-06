@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **empresavinix@gmail.com**
 
-- 📄 Know about my experiences [junior frontend working on SSP in Aracaju-SE, full frontend working on my own business]
+- 📄 Know about my experiences **junior frontend working on SSP in Aracaju-SE, full frontend working on my own business**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
