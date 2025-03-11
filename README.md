@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusbenetti&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusbenetti" /> </p>
 
 
-- 🌱 I’m currently learning **Javascript frameworks and front end apps**
+- 🌱 I’m currently learning **front end**
 
 - 👨‍💻 All of my projects are available at [https://vinixodin.com](https://vinixodin.com)
 
 - 💬 Ask me about **html,css,javascript, frontend frameworks, cpp,iot,python and popular programming languages**
 
-- 📫 How to reach me **empresavinix@gmail.com**
+- 📫 How to reach me **contato@vinixodin.com**
 
 - 📄 Know about my experiences **junior frontend working on SSP in Aracaju-SE, full frontend working on my own business**
 
