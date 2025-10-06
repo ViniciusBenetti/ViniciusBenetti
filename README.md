@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vinicius Benetti</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A passionate frontend developer IA from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusbenetti&label=Profile%20views&color=0e75b6&style=flat" alt="viniciusbenetti" /> </p>
 
 
-- 🌱 I’m currently learning **front end**
+- 🌱 I’m currently learning **Artifical Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://vinixodin.com](https://vinixodin.com)
 
-- 💬 Ask me about **html,css,javascript, frontend frameworks, cpp,iot,python and popular programming languages**
+- 💬 Ask me about **front-end,front-end frameworks,programming,ioT**
 
 - 📫 How to reach me **contato@vinixodin.com**
 
