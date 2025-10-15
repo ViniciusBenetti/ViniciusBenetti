@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vinixodin.com](https://vinixodin.com)
 
-- 💬 Ask me about **front-end,front-end frameworks,programming,ioT**
+- 💬 Ask me about **front-end, programming, ioT and AI**
 
 - 📫 How to reach me **contato@vinixodin.com**
 
